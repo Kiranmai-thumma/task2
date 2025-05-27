@@ -2,6 +2,10 @@
 
 This project contains a detailed analysis of a suspicious phishing email using real-world threat detection and email header inspection techniques.
 
+## 📌 Objective
+
+To demonstrate the real-world application of email forensics and phishing detection techniques used in SOC environments.
+
 ## 📄 Report Overview
 
 The report provides a step-by-step breakdown of how to investigate and validate a potentially spoofed or malicious email. Each section includes visuals, domain verification, and forensic-level commentary.
@@ -20,8 +24,5 @@ The report provides a step-by-step breakdown of how to investigate and validate 
 
 - [MXToolbox](https://mxtoolbox.com/) – Header and DNS inspection
 - Mozilla Thunderbird – For accessing original email content
-- WHOIS & MX Record Lookup – Verifying sender infrastructure
+- WHOIS & MX Record Lookup – Verifying sender infrastructur
 
-## 📌 Objective
-
-To demonstrate the real-world application of email forensics and phishing detection techniques used in SOC environments.
